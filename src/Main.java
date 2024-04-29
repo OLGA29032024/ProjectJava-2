@@ -4,8 +4,6 @@ public class Main {
 
     public static void main(String[] args) {
         int anount = 15000;
-        boolean isRegistered = true;
-
         int mile = 20;
 
         int bonus = anount / mile;
